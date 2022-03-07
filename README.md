@@ -10,7 +10,7 @@
 
 김형우 : [팀원, 백엔드 및 프론트]
 
-- Github : @1[ComputerMaster](https://github.com/1ComputerMaster)
+- Github : [@1ComputerMaster](https://github.com/1ComputerMaster)
 
 ## ****📆**** 프로젝트 개요
 
