@@ -44,6 +44,6 @@
 
 ## ****🎞**** 최종산출물
 
-- [발표자료](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f15b60b2-62c1-4e1c-931b-d5a13f7b74cc/HappyHouse.pdf)
+- [발표자료](documentation/HappyHouse.pdf)
     
 - [시연영상](https://youtu.be/Ryi5OH7XLG4)
